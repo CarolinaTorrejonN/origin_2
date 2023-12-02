@@ -1,0 +1,17 @@
+nav {
+    font-family: roboto;
+    color: white;
+}
+
+header {
+    background-image: url(./img/foto_caro.jpeg);
+    background-size: 400px;
+    opacity: 90%;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: black;
+}
+body {
+    font-family: roboto;
+}
+
